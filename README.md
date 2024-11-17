@@ -23,20 +23,6 @@ To set up the project, follow these steps:
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-To use the project, follow these instructions:
-
-1. Prepare your audio files and place them in the `audio` directory.
-2. Run the sentiment analysis script:
-   ```sh
-   python main.py --input audio/your_audio_file.wav
-   ```
 
 ## Contributing
 
