@@ -1,0 +1,190 @@
+{
+    "transcriptions": [
+        {
+            "speaker": "SPEAKER_03",
+            "start": 1.93784375,
+            "end": 4.55346875,
+            "text": " Coming up, Quinn Tuplett's born at Cohog General.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.9491453170776367
+            }
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 5.8697187500000005,
+            "end": 6.00471875,
+            "text": " What?",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.5346867442131042
+            }
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 6.69659375,
+            "end": 7.9790937500000005,
+            "text": " That's supposed to be burn.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.5985602736473083
+            }
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 8.232218750000001,
+            "end": 8.40096875,
+            "text": " Oh.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.5641087889671326
+            }
+        },
+        {
+            "speaker": "SPEAKER_03",
+            "start": 9.109718750000003,
+            "end": 11.556593750000001,
+            "text": " Coming up, when Tuplet's burn at Cohog General.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.6503951549530029
+            }
+        },
+        {
+            "speaker": "SPEAKER_05",
+            "start": 13.817843750000002,
+            "end": 15.589718750000003,
+            "text": " Hey honey, get in here!",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.7036845684051514
+            }
+        },
+        {
+            "speaker": "SPEAKER_05",
+            "start": 15.94409375,
+            "end": 27.520343750000002,
+            "text": " Check this out. The way he's sitting, it looks like the dog's watching the news. You like watching the news, you dumb dog. Well, I'm off to do what former Navy SEALS do. Sell lawnmowers.",
+            "sentiment": {
+                "label": "Negative",
+                "score": 0.7761246562004089
+            }
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "start": 28.735343750000002,
+            "end": 30.81096875,
+            "text": " Wow, he really has no idea.",
+            "sentiment": {
+                "label": "Negative",
+                "score": 0.7796504497528076
+            }
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "start": 31.266593750000002,
+            "end": 31.53659375,
+            "text": " Hey.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.5314684510231018
+            }
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "start": 31.840343750000002,
+            "end": 33.03846875,
+            "text": " Want to take a shower with me?",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.8458367586135864
+            }
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 33.30846875,
+            "end": 33.73034375,
+            "text": " Sure.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.5206534266471863
+            }
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 34.72596875,
+            "end": 36.19409375,
+            "text": " And this is a pretty sweet gig.",
+            "sentiment": {
+                "label": "Positive",
+                "score": 0.9860138893127441
+            }
+        },
+        {
+            "speaker": "SPEAKER_04",
+            "start": 36.43034375,
+            "end": 37.96596875,
+            "text": " Like being a member of Draft Punk.",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.8001489639282227
+            }
+        },
+        {
+            "speaker": "SPEAKER_02",
+            "start": 38.70846875,
+            "end": 45.66096875,
+            "text": " Look at this old gasio keyboard from the 1980s that I found. What's what happens when I push this demo button?",
+            "sentiment": {
+                "label": "Neutral",
+                "score": 0.6940945982933044
+            }
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 49.23846875,
+            "end": 51.97221875,
+            "text": " Hello, Draft Punk. Great song. Here's a Grammy.",
+            "sentiment": {
+                "label": "Positive",
+                "score": 0.9498680830001831
+            }
+        },
+        {
+            "speaker": "SPEAKER_01",
+            "start": 52.782218750000006,
+            "end": 57.540968750000005,
+            "text": " Hohoho! You know, it's funny. Until you spoke, I did not know we were French!",
+            "sentiment": {
+                "label": "Positive",
+                "score": 0.693268895149231
+            }
+        }
+    ],
+    "overall_sentiments": {
+        "SPEAKER_03": {
+            "label": "Negative",
+            "score": 0.5868061780929565
+        },
+        "SPEAKER_05": {
+            "label": "Negative",
+            "score": 0.7433890700340271
+        },
+        "SPEAKER_00": {
+            "label": "Negative",
+            "score": 0.527948796749115
+        },
+        "SPEAKER_04": {
+            "label": "Positive",
+            "score": 0.9801886081695557
+        },
+        "SPEAKER_02": {
+            "label": "Neutral",
+            "score": 0.6940945982933044
+        },
+        "SPEAKER_01": {
+            "label": "Positive",
+            "score": 0.9072456359863281
+        }
+    }
+}
